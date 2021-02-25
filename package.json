@@ -12,8 +12,8 @@
   },
   "scripts": {
     "start": "node server.js",
-    "watch": "nodemon server.js"
   },
+  
   "author": "",
   "license": "ISC",
   "keywords": []
